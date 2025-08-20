@@ -64,7 +64,9 @@ The dashboard is designed for **business stakeholders and analysts** to:
 ---
 
 ## 📷 Snapshots
-*(Add your dashboard screenshots here)*  
+<img width="870" height="481" alt="image" src="https://github.com/user-attachments/assets/2e0c8a33-519c-499b-9a60-833b9185ae64" />
+<img width="865" height="470" alt="image" src="https://github.com/user-attachments/assets/a5e03581-c932-4caa-b6e5-bcaf1b5edceb" />
+
 
 ---
 
