@@ -1,11 +1,11 @@
-# 📊 SuperStore Sales Dashboard - Power BI Project
+#  SuperStore Sales Dashboard - Power BI Project
 
 Welcome to the **SuperStore Sales Dashboard** project!  
 This interactive **Power BI dashboard** provides a comprehensive analysis of sales and profit performance for a fictional retail store. It uncovers **actionable insights** across regions, categories, time, and customer behavior, enabling data-driven business decisions.
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 - **$1.57M+ Sales**, **22K Orders**, and **$175K+ Profit** visualized.  
 - **Average Delivery Time:** 4 Days.  
 - **Sales Forecast:** 15-day trend prediction (peaking at 10.6K units).  
@@ -14,7 +14,7 @@ This interactive **Power BI dashboard** provides a comprehensive analysis of sal
 
 ---
 
-## 📈 Key Visuals & Insights
+## Key Visuals & Insights
 - **Donut Charts**
   - Sales by **Payment Mode** → Online (35%), COD (43%)  
   - Sales by **Customer Segment** → Consumer (48%), Corporate (33%)  
@@ -38,7 +38,7 @@ This interactive **Power BI dashboard** provides a comprehensive analysis of sal
 
 ---
 
-## 🛠️ Tools & Techniques Used
+##  Tools & Techniques Used
 - **Power BI Desktop** for dashboard creation  
 - **DAX** for KPIs, calculated measures, and YoY analysis  
 - **Custom visuals** for storytelling  
@@ -46,7 +46,7 @@ This interactive **Power BI dashboard** provides a comprehensive analysis of sal
 
 ---
 
-## 🎯 Purpose
+## Purpose
 The dashboard is designed for **business stakeholders and analysts** to:  
 - Monitor **sales performance** over time  
 - Understand **customer behavior & regional trends**  
@@ -55,7 +55,7 @@ The dashboard is designed for **business stakeholders and analysts** to:
 
 ---
 
-## 📌 Insights Gained
+##  Insights Gained
 - **COD** is the most popular payment mode  
 - **Phones** dominate sub-category sales  
 - **West Region** & **Consumer Segment** contribute most to profit  
@@ -70,9 +70,4 @@ The dashboard is designed for **business stakeholders and analysts** to:
 
 ---
 
-## 📬 Contact
-If you have any questions or suggestions, feel free to reach out!  
 
----
-🔗 **Author:** *Your Name*  
-📊 **Project:** SuperStore Sales Dashboard (Power BI)  
